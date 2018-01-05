@@ -1,5 +1,9 @@
 package edu.metu.exsix;
 
+//import edu.metu.exsix.Electronics;
+//import edu.metu.exsix.Product;
+import edu.metu.exsix.*;
+import java.util.ArrayList;
 /**
  * Created by sngeza on 2018. 01. 05..
  */
